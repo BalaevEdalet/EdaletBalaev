@@ -1,3 +1,7 @@
+[![MasterHead](https://i.hizliresim.com/2bmn907.jpg)
+
+
+
 <h1 align="center">Hi 👋, I'm Edalet Balaev</h1>
 <h3 align="center">SoftWare Developer</h3>
 
