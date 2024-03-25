@@ -1,4 +1,4 @@
-![MasterHead](https://hizliresim.com/4637yv3.png)
+![MasterHead](https://i.hizliresim.com/4637yv3.png)
 
 
 <h1 align="center">Hi 👋, I'm Edalet Balaev</h1>
